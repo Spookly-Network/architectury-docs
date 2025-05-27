@@ -1,6 +1,5 @@
 ---
 title: Home
-navigation: true
 ---
 
 ::hero
